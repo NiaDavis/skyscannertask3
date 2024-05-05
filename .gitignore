@@ -1,0 +1,17 @@
+# Gradle files
+.gradle/
+build/
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# Keystore files
+*.jks
+
+# Generated files
+captures/
